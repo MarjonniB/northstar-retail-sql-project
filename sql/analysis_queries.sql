@@ -61,6 +61,11 @@ Skills: AND, >=
 ============================================================ */
 
 -- Write your query below:
+SELECT *
+FROM dbo.Orders
+WHERE SalesRep = 'Alex Carter' AND Quantity >= 4;
+
+-- Return orders handled by Alex Carter with a quantity of 4 or more.
 
 
 
