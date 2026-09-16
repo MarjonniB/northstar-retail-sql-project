@@ -145,7 +145,12 @@ Skills: AND, OR / IN
 
 -- Write your query below:
 
+SELECT *
+FROM dbo.Orders
+WHERE CustomerType = 'Consumer' AND ProductCategory IN ('Audio', 'Gaming');
 
+--Returned Consumers orders for either Gaming or Audio products
+--Validation: 12 Records returned
 
 /* ============================================================
 TICKET 09 — Quarterly Review
