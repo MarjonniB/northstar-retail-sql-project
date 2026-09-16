@@ -78,8 +78,11 @@ Skills: OR
 ============================================================ */
 
 -- Write your query below:
+SELECT *
+FROM dbo.Orders
+WHERE OrderStatus IN ('Cancelled','Returned');
 
-
+--Return orders that are either cancelled or returned. 12 records found. 
 
 /* ============================================================
 TICKET 05 — Product Team
