@@ -1,0 +1,81 @@
+OrderID,CustomerName,City,State,Region,CustomerType,ProductCategory,ProductName,SalesRep,OrderDate,Quantity,UnitPrice,OrderStatus,PaymentMethod
+1001,Amelia Scott,Philadelphia,PA,East,Small Business,Accessories,Wireless Pro Mouse,Alex Carter,2026-07-13,5,59.99,Completed,Debit Card
+1002,Samuel King,Richmond,VA,East,Corporate,Accessories,Wireless Pro Mouse,Mia Sanders,2026-07-13,2,59.99,Shipped,Credit Card
+1003,Avery Johnson,Sacramento,CA,West,Consumer,Computers,MiniDesk PC,Bianca Lopez,2026-03-05,1,649.99,Shipped,Bank Transfer
+1004,Marcus Reed,Dallas,TX,South,Corporate,Gaming,Gaming Keyboard,Eric Foster,2026-03-17,1,129.99,Pending,Debit Card
+1005,Zoe Turner,Newark,NJ,East,Small Business,Gaming,Gaming Controller,Chris Nguyen,2026-03-17,3,69.99,Completed,PayPal
+1006,Priya Patel,Portland,OR,West,Corporate,Computers,MiniDesk PC,Dana Brooks,2026-01-29,6,649.99,Cancelled,PayPal
+1007,Monica Reyes,Folsom,CA,West,Consumer,Gaming,Gaming Keyboard,Eric Foster,2026-02-05,7,129.99,Completed,PayPal
+1008,Amelia Scott,Philadelphia,PA,East,Small Business,Storage,4TB External Drive,Chris Nguyen,2026-06-01,4,129.99,Pending,Credit Card
+1009,Lucas Green,Baltimore,MD,East,Consumer,Audio,Wireless Headphones,Chris Nguyen,2026-01-25,4,149.99,Cancelled,Bank Transfer
+1010,Nina Brooks,Atlanta,GA,South,Small Business,Gaming,Gaming Keyboard,Mia Sanders,2026-08-06,6,129.99,Completed,PayPal
+1011,Sofia Martinez,Austin,TX,South,Consumer,Audio,Studio Pro Headset,Mia Sanders,2026-06-28,2,199.99,Shipped,Debit Card
+1012,Henry Adams,Indianapolis,IN,Central,Corporate,Audio,Wireless Headphones,Bianca Lopez,2026-05-03,7,149.99,Completed,Debit Card
+1013,Lucas Green,Baltimore,MD,East,Consumer,Displays,24-inch Monitor,Alex Carter,2026-03-04,1,179.99,Pending,Bank Transfer
+1014,Nina Brooks,Atlanta,GA,South,Small Business,Computers,MiniDesk PC,Bianca Lopez,2026-08-26,6,649.99,Completed,Bank Transfer
+1015,Grace Kim,Chicago,IL,Central,Corporate,Gaming,Gaming Keyboard,Bianca Lopez,2026-03-13,3,129.99,Completed,PayPal
+1016,Samuel King,Richmond,VA,East,Corporate,Storage,2TB Pro SSD,Dana Brooks,2026-08-22,7,189.99,Completed,Debit Card
+1017,Emma Collins,Kansas City,MO,Central,Small Business,Networking,WiFi 6 Router,Alex Carter,2026-07-17,1,159.99,Cancelled,Debit Card
+1018,Amelia Scott,Philadelphia,PA,East,Small Business,Accessories,USB-C Dock,Mia Sanders,2026-04-23,2,119.99,Completed,Bank Transfer
+1019,Emma Collins,Kansas City,MO,Central,Small Business,Audio,Studio Pro Headset,Eric Foster,2026-08-13,1,199.99,Pending,Credit Card
+1020,Lucas Green,Baltimore,MD,East,Consumer,Storage,1TB Portable SSD,Chris Nguyen,2026-07-20,6,109.99,Completed,Bank Transfer
+1021,Taylor Morgan,Denver,CO,West,Small Business,Gaming,Gaming Keyboard,Alex Carter,2026-07-08,5,129.99,Returned,Debit Card
+1022,Emma Collins,Kansas City,MO,Central,Small Business,Accessories,Wireless Pro Mouse,Mia Sanders,2026-03-22,4,59.99,Completed,Debit Card
+1023,Henry Adams,Indianapolis,IN,Central,Corporate,Networking,8-Port Network Switch,Alex Carter,2026-06-07,6,94.99,Shipped,Credit Card
+1024,Caleb Foster,Nashville,TN,South,Consumer,Audio,Bluetooth Speaker,Bianca Lopez,2026-01-19,4,79.99,Cancelled,Credit Card
+1025,Derek Chen,Seattle,WA,West,Small Business,Networking,WiFi 6 Router,Alex Carter,2026-07-18,3,159.99,Completed,Bank Transfer
+1026,Henry Adams,Indianapolis,IN,Central,Corporate,Accessories,USB-C Dock,Chris Nguyen,2026-05-20,7,119.99,Returned,Debit Card
+1027,Zoe Turner,Newark,NJ,East,Small Business,Audio,Bluetooth Speaker,Dana Brooks,2026-06-25,6,79.99,Shipped,Bank Transfer
+1028,Priya Patel,Portland,OR,West,Corporate,Audio,Wireless Headphones,Bianca Lopez,2026-01-21,6,149.99,Completed,Debit Card
+1029,Chloe Rivera,New York,NY,East,Consumer,Audio,Wireless Headphones,Alex Carter,2026-01-23,1,149.99,Completed,Credit Card
+1030,Olivia Bennett,Charlotte,NC,South,Corporate,Computers,MiniDesk PC,Eric Foster,2026-03-06,5,649.99,Shipped,Debit Card
+1031,Henry Adams,Indianapolis,IN,Central,Corporate,Accessories,Mechanical Keyboard,Mia Sanders,2026-08-18,8,89.99,Completed,Bank Transfer
+1032,Noah Thompson,Detroit,MI,Central,Consumer,Accessories,Laptop Stand,Alex Carter,2026-01-29,7,39.99,Completed,Bank Transfer
+1033,Maya Robinson,Columbus,OH,Central,Small Business,Computers,ApexBook Pro 16,Mia Sanders,2026-06-21,2,1399.99,Completed,PayPal
+1034,Priya Patel,Portland,OR,West,Corporate,Audio,Wireless Headphones,Bianca Lopez,2026-02-22,8,149.99,Completed,Debit Card
+1035,Nina Brooks,Atlanta,GA,South,Small Business,Gaming,Gaming Keyboard,Bianca Lopez,2026-08-16,2,129.99,Shipped,Credit Card
+1036,Monica Reyes,Folsom,CA,West,Consumer,Storage,1TB Portable SSD,Alex Carter,2026-01-28,4,109.99,Completed,Bank Transfer
+1037,Liam Carter,Minneapolis,MN,Central,Consumer,Accessories,Laptop Stand,Dana Brooks,2026-08-24,1,39.99,Completed,Credit Card
+1038,Grace Kim,Chicago,IL,Central,Corporate,Audio,Studio Pro Headset,Dana Brooks,2026-03-19,7,199.99,Pending,Bank Transfer
+1039,Jordan Williams,Phoenix,AZ,West,Consumer,Accessories,Laptop Stand,Chris Nguyen,2026-03-01,1,39.99,Shipped,Credit Card
+1040,Samuel King,Richmond,VA,East,Corporate,Displays,24-inch Monitor,Alex Carter,2026-01-17,8,179.99,Shipped,Debit Card
+1041,Monica Reyes,Folsom,CA,West,Consumer,Networking,8-Port Network Switch,Alex Carter,2026-08-10,3,94.99,Completed,Credit Card
+1042,Lucas Green,Baltimore,MD,East,Consumer,Audio,Wireless Headphones,Dana Brooks,2026-02-04,4,149.99,Shipped,Credit Card
+1043,Daniel Lee,Boston,MA,East,Corporate,Computers,MiniDesk PC,Dana Brooks,2026-06-22,6,649.99,Returned,Debit Card
+1044,Lucas Green,Baltimore,MD,East,Consumer,Displays,24-inch Monitor,Bianca Lopez,2026-03-13,7,179.99,Completed,PayPal
+1045,Maya Robinson,Columbus,OH,Central,Small Business,Displays,24-inch Monitor,Alex Carter,2026-01-07,8,179.99,Shipped,Credit Card
+1046,Derek Chen,Seattle,WA,West,Small Business,Storage,1TB Portable SSD,Bianca Lopez,2026-05-14,5,109.99,Completed,PayPal
+1047,Derek Chen,Seattle,WA,West,Small Business,Audio,Wireless Headphones,Chris Nguyen,2026-03-18,3,149.99,Shipped,PayPal
+1048,Daniel Lee,Boston,MA,East,Corporate,Networking,8-Port Network Switch,Alex Carter,2026-06-24,5,94.99,Returned,Credit Card
+1049,Jordan Williams,Phoenix,AZ,West,Consumer,Audio,Studio Pro Headset,Alex Carter,2026-08-20,2,199.99,Pending,Debit Card
+1050,Nina Brooks,Atlanta,GA,South,Small Business,Audio,Bluetooth Speaker,Eric Foster,2026-02-27,6,79.99,Completed,PayPal
+1051,Emma Collins,Kansas City,MO,Central,Small Business,Networking,WiFi 6 Router,Chris Nguyen,2026-08-24,1,159.99,Completed,Bank Transfer
+1052,Nina Brooks,Atlanta,GA,South,Small Business,Computers,ApexBook Pro 16,Alex Carter,2026-03-31,3,1399.99,Shipped,PayPal
+1053,Taylor Morgan,Denver,CO,West,Small Business,Gaming,Gaming Keyboard,Eric Foster,2026-07-04,7,129.99,Shipped,Credit Card
+1054,Derek Chen,Seattle,WA,West,Small Business,Accessories,Mechanical Keyboard,Eric Foster,2026-01-14,6,89.99,Shipped,Debit Card
+1055,Noah Thompson,Detroit,MI,Central,Consumer,Accessories,Mechanical Keyboard,Alex Carter,2026-03-24,6,89.99,Cancelled,Credit Card
+1056,Caleb Foster,Nashville,TN,South,Consumer,Accessories,Laptop Stand,Mia Sanders,2026-03-09,2,39.99,Completed,Bank Transfer
+1057,Daniel Lee,Boston,MA,East,Corporate,Accessories,Mechanical Keyboard,Bianca Lopez,2026-08-14,3,89.99,Returned,Debit Card
+1058,Noah Thompson,Detroit,MI,Central,Consumer,Computers,ApexBook 14 Laptop,Bianca Lopez,2026-07-12,6,899.99,Pending,Bank Transfer
+1059,Lucas Green,Baltimore,MD,East,Consumer,Audio,Wireless Headphones,Chris Nguyen,2026-02-14,2,149.99,Completed,Credit Card
+1060,Liam Carter,Minneapolis,MN,Central,Consumer,Audio,Wireless Headphones,Bianca Lopez,2026-08-02,8,149.99,Completed,Debit Card
+1061,Marcus Reed,Dallas,TX,South,Corporate,Computers,ApexBook 14 Laptop,Mia Sanders,2026-02-23,7,899.99,Completed,Credit Card
+1062,Nina Brooks,Atlanta,GA,South,Small Business,Displays,27-inch Pro Monitor,Mia Sanders,2026-05-15,7,329.99,Pending,PayPal
+1063,Avery Johnson,Sacramento,CA,West,Consumer,Accessories,Wireless Pro Mouse,Chris Nguyen,2026-02-19,5,59.99,Completed,Bank Transfer
+1064,Caleb Foster,Nashville,TN,South,Consumer,Displays,24-inch Monitor,Dana Brooks,2026-06-09,2,179.99,Completed,Debit Card
+1065,Nina Brooks,Atlanta,GA,South,Small Business,Computers,ApexBook Pro 16,Mia Sanders,2026-04-26,1,1399.99,Shipped,Debit Card
+1066,Caleb Foster,Nashville,TN,South,Consumer,Gaming,Gaming Controller,Alex Carter,2026-06-24,6,69.99,Shipped,Credit Card
+1067,Samuel King,Richmond,VA,East,Corporate,Audio,Bluetooth Speaker,Eric Foster,2026-03-25,7,79.99,Completed,PayPal
+1068,Henry Adams,Indianapolis,IN,Central,Corporate,Accessories,Mechanical Keyboard,Bianca Lopez,2026-04-22,7,89.99,Pending,Debit Card
+1069,Daniel Lee,Boston,MA,East,Corporate,Storage,2TB Pro SSD,Chris Nguyen,2026-04-18,1,189.99,Completed,Debit Card
+1070,Noah Thompson,Detroit,MI,Central,Consumer,Storage,2TB Pro SSD,Eric Foster,2026-06-21,6,189.99,Shipped,Bank Transfer
+1071,Lucas Green,Baltimore,MD,East,Consumer,Accessories,Laptop Stand,Eric Foster,2026-05-06,3,39.99,Shipped,PayPal
+1072,Emma Collins,Kansas City,MO,Central,Small Business,Storage,4TB External Drive,Chris Nguyen,2026-01-28,4,129.99,Pending,Debit Card
+1073,Maria Stone,Folsom,CA,West,Small Business,Accessories,Wireless Pro Mouse,Alex Carter,2026-03-15,4,59.99,Completed,Credit Card
+1074,James Monroe,Austin,TX,South,Corporate,Computers,ApexBook Pro 16,Dana Brooks,2026-04-20,2,1399.99,Pending,Bank Transfer
+1075,Melissa Grant,Boston,MA,East,Consumer,Gaming,Gaming Keyboard,Chris Nguyen,2026-05-09,3,129.99,Cancelled,PayPal
+1076,Andre Lewis,Sacramento,CA,West,Consumer,Storage,2TB Pro SSD,Mia Sanders,2026-06-12,5,189.99,Shipped,Debit Card
+1077,Megan Price,Denver,CO,West,Corporate,Displays,27-inch Pro Monitor,Eric Foster,2026-07-01,1,329.99,Returned,Credit Card
+1078,Michael Young,Miami,FL,South,Consumer,Audio,Wireless Headphones,Bianca Lopez,2026-07-18,6,149.99,Completed,PayPal
+1079,Morgan Fields,Chicago,IL,Central,Small Business,Networking,WiFi 6 Router,Alex Carter,2026-08-03,2,159.99,Pending,Credit Card
+1080,Michelle Park,New York,NY,East,Corporate,Displays,34-inch Gaming Monitor,Dana Brooks,2026-08-22,2,549.99,Completed,Bank Transfer
