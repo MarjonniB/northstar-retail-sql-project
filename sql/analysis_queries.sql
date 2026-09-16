@@ -93,7 +93,11 @@ Skills: LIKE
 ============================================================ */
 
 -- Write your query below:
+SELECT ProductName
+FROM dbo.Orders
+WHERE ProductName LIKE '%Pro%';
 
+-- Return products that show "Pro" anywhere in the ProductName. 19 records found.
 
 
 /* ============================================================
