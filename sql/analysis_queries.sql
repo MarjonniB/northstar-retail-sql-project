@@ -22,7 +22,16 @@ Skills: WHERE, comparison operator
 
 -- Write your query below:
 
+SELECT TOP(10) *
+FROM Orders
 
+SELECT *
+FROM Orders
+WHERE OrderStatus = 'Pending'
+
+--First, I reviewed the top 10 data to review the data and locate the correct column
+--Then I used an equal sign with the value of Pending to show me only Pended orders. 
+--Results show 12 orders currently in Pending status
 
 /* ============================================================
 TICKET 02 — West Coast Sales
