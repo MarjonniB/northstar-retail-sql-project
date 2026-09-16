@@ -23,11 +23,11 @@ Skills: WHERE, comparison operator
 -- Write your query below:
 
 SELECT TOP(10) *
-FROM Orders
+FROM Orders;
 
 SELECT *
 FROM Orders
-WHERE OrderStatus = 'Pending'
+WHERE OrderStatus = 'Pending';
 
 --First, I reviewed the top 10 data to review the data and locate the correct column
 --Then I used an equal sign with the value of Pending to show me only Pended orders. 
@@ -45,7 +45,12 @@ Skills: SELECT columns, IN, ORDER BY
 
 -- Write your query below:
 
-
+-- Return orders from CA, WA, and OR with only the requested columns.
+-- Sort results by State, then CustomerName.
+SELECT OrderID, CustomerName, State, ProductName, OrderStatus
+FROM Orders
+WHERE State IN ('CA', 'WA', 'OR')
+ORDER BY State, CustomerName;
 
 /* ============================================================
 TICKET 03 — Sales Manager
