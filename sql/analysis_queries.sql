@@ -110,8 +110,13 @@ Skills: BETWEEN, ORDER BY DESC
 ============================================================ */
 
 -- Write your query below:
-
-
+SELECT *
+FROM dbo.Orders
+WHERE UnitPrice BETWEEN 100 AND 300  
+ORDER BY UnitPrice Desc;
+--Return orders with UnitPrice between $100 and $300 
+--Sorted UnityPrice by descending, highest to lowest.
+--Validation: 42 records returned
 
 /* ============================================================
 TICKET 07 — Regional Director
