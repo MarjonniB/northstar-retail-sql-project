@@ -127,7 +127,12 @@ Skills: NOT
 ============================================================ */
 
 -- Write your query below:
+SELECT *
+FROM dbo.Orders
+WHERE NOT Region = 'West';
 
+--Return orders that are not in the West region
+--Validation: 61 records returned
 
 
 /* ============================================================
