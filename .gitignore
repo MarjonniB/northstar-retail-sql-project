@@ -1,0 +1,10 @@
+# Visual Studio / SSMS temporary files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
