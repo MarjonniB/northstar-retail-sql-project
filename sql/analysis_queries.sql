@@ -218,8 +218,14 @@ Skills: multiple AND conditions, >
 ============================================================ */
 
 -- Write your query below:
+SELECT *
+FROM dbo.Orders
+WHERE OrderStatus = 'Pending' 
+	AND CustomerType = 'Corporate' 
+	AND UnitPrice > 300;
 
-
+--Return Pending Orders from Corporate customers with a Unit Price higher than $300
+--Validation: 1 record returned
 
 /* ============================================================
 FINAL CHALLENGE — Sales Investigation
