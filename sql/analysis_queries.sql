@@ -162,7 +162,14 @@ Skills: BETWEEN with dates, ORDER BY
 ============================================================ */
 
 -- Write your query below:
+SELECT *
+FROM dbo.Orders
+WHERE OrderDate BETWEEN '04/01/2026' AND '06/30/2026'
+ORDER BY OrderDate;
 
+--Return all orders from 4/1/26 through 6/30/2026
+--Sort orders from earliest to latest
+--Validation: 22 Records returned
 
 
 /* ============================================================
