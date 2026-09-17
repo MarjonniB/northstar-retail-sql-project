@@ -199,7 +199,13 @@ Skills: DISTINCT, ORDER BY
 ============================================================ */
 
 -- Write your query below:
+SELECT DISTINCT ProductCategory
+FROM dbo.Orders
+ORDER BY ProductCategory;
 
+--Return unique product categories 
+--Sort categories by Alphabetical order
+--Validation: 7 unique product categories returned
 
 
 /* ============================================================
