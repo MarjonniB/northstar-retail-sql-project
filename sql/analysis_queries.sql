@@ -181,8 +181,13 @@ Skills: LIKE
 ============================================================ */
 
 -- Write your query below:
+SELECT DISTINCT CustomerName
+FROM dbo.Orders
+WHERE CustomerName LIKE 'M%';
 
-
+--Return customers that start with the letter M
+--Validation: 9 unique customers returned
+--Only shows CustomerName column
 
 /* ============================================================
 TICKET 11 — Management
