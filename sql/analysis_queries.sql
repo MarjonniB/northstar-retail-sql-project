@@ -247,3 +247,25 @@ Skills: AND, NOT, BETWEEN, LIKE, OR, ORDER BY
 
 -- Write your query below:
 
+SELECT OrderId, 
+	CustomerName, 
+	State, 
+	ProductName, 
+	Quantity, 
+	UnitPrice,
+	OrderStatus,
+	SalesRep
+FROM dbo.Orders
+WHERE Region = 'West'  
+	AND Quantity BETWEEN 2 AND 6
+	AND OrderStatus NOT IN ('Cancelled')
+	AND (ProductName LIKE '%Pro%' OR ProductName LIKE '%Wireless%')
+ORDER BY UnitPrice DESC;
+
+--Return west regional orders
+--Quantity orders between 2 and 6
+--Does not show cancelled orders
+--Show ProductNames that have Pro or Wireless in the name
+--Order By sorted by Unit Price Highest to Lowest 
+--Validation: 6 Records returned
+
